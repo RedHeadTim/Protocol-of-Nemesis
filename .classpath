@@ -11,6 +11,7 @@
 		</attributes>
 	</classpathentry>
 	<classpathentry kind="src" path="nativesmac"/>
+	<classpathentry kind="src" path="nativesmacos"/>
 	<classpathentry kind="lib" path="lib/jinput.jar"/>
 	<classpathentry kind="lib" path="lib/lwjgl_util.jar"/>
 	<classpathentry kind="lib" path="lib/lwjgl.jar">
